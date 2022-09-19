@@ -3,6 +3,8 @@ This repository contains my notes from when we got our dog, Luna, trained. These
 
 # Day 1 - HA (what does that stand for?)
 
+12 weeks old at first session
+
 Have a schedule! What time do they eat, what time do they go to bed?
 
 ## HA
